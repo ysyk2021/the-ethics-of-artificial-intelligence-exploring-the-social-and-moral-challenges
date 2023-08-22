@@ -1,5 +1,4 @@
-International Relations and Governance
-=========================================================================================
+
 
 Artificial Intelligence (AI) has significant social and economic implications, both domestically and internationally. As the benefits of AI become more widely recognized, it is important to consider how its development and deployment may impact global politics, economies, and societies.
 

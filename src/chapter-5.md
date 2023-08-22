@@ -1,5 +1,4 @@
-Chapter 4: Autonomous Decision-Making and Responsibility
-========================================================
+
 
 Autonomous Systems and Decision-Making
 --------------------------------------

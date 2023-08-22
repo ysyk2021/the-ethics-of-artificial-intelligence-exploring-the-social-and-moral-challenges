@@ -1,5 +1,4 @@
-Chapter 1: Theoretical Foundations of AI Ethics
-===============================================
+
 
 As Artificial Intelligence (AI) continues to advance and shape various aspects of our lives, it is essential to consider the theoretical foundations that guide the development and deployment of these technologies.
 

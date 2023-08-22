@@ -1,5 +1,4 @@
-Human Oversight and Control
-=====================================================================================
+
 
 Autonomous systems are becoming more prevalent in society, and their decision-making capabilities raise important questions about responsibility and accountability. One approach to addressing these issues is to establish a framework for human oversight and control over autonomous systems.
 

@@ -1,5 +1,4 @@
-The Role of AI in Society
-=======================================
+
 
 Artificial intelligence (AI) is rapidly transforming our world, revolutionizing industries from healthcare to finance and impacting our daily lives in ways we could not have imagined just a few decades ago. While AI systems offer tremendous benefits, they also raise important ethical questions related to autonomy, responsibility, transparency, and bias.
 

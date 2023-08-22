@@ -1,5 +1,4 @@
-Chapter 3: Privacy and Surveillance in AI
-=========================================
+
 
 Data Collection and Privacy Concerns
 ------------------------------------

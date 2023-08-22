@@ -1,5 +1,4 @@
-Discrimination and Prejudice in AI
-=======================================================================================
+
 
 Artificial intelligence (AI) has the potential to make our lives easier, more efficient, and more productive. However, as AI technologies become more widespread, there are growing concerns about the impact of these technologies on society, particularly related to bias, fairness, and discrimination.
 

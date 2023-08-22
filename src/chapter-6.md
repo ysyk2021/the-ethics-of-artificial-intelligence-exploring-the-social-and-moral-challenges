@@ -1,5 +1,4 @@
-Chapter 5: Social and Economic Implications of AI
-=================================================
+
 
 Employment and Labor Displacement
 ---------------------------------

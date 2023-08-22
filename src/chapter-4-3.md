@@ -1,5 +1,4 @@
-Security Risks Associated with AI
-============================================================================
+
 
 Artificial Intelligence (AI) technologies have the potential to transform society, but they also pose significant privacy and security challenges. The use of AI in surveillance, for example, raises significant ethical concerns related to individual privacy and autonomy.
 

@@ -1,5 +1,4 @@
-Chapter 6: The Future of AI Ethics
-==================================
+
 
 Emerging Technologies and Ethical Challenges
 --------------------------------------------
