@@ -1,5 +1,4 @@
 
-
 The increasing use of Artificial Intelligence (AI) in surveillance and monitoring has led to numerous ethical concerns related to privacy, abuse of power, and discrimination. To address these concerns, it is crucial to prioritize responsibility and accountability in the development and deployment of AI technologies. In this chapter, we explore the importance of responsibility and accountability in AI in the context of privacy and surveillance.
 
 The Need for Responsiblity and Accountability in AI

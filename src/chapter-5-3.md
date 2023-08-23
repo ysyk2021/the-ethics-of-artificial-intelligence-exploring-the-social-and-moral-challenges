@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technologies are increasingly being used to make autonomous decisions, raising significant ethical questions around responsibility and liability. As these systems become more advanced, it becomes harder to determine who or what is responsible for the decisions they make.
 
 Autonomy in Decision-Making

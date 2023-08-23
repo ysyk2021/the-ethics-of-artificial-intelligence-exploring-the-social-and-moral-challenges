@@ -1,5 +1,4 @@
 
-
 With the rise of artificial intelligence (AI) and autonomous systems, the question of responsibility for decisions made by these systems has become increasingly important. This chapter explores the ethical and social challenges posed by autonomous decision-making and the responsibility for the actions of AI systems.
 
 Autonomous Decision-Making in AI

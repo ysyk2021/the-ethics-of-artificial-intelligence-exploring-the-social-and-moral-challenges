@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is a rapidly evolving field that involves developing systems that can perform tasks typically requiring human intelligence, such as perception, language understanding, decision-making, and problem-solving. These systems are designed to learn from data, adapt to new situations, and improve their performance over time.
 
 The term "artificial intelligence" was first coined in the 1950s, and since then, the field has grown to encompass a wide range of technologies and applications. Some common examples of AI systems include virtual assistants, chatbots, image recognition tools, and self-driving cars.

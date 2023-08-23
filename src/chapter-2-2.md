@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) technologies become increasingly prevalent in society, it is essential to examine the ethical implications of these systems. This chapter will explore the theoretical foundations of AI ethics, with a particular focus on the philosophy of AI ethics.
 
 The Concept of Artificial Intelligence

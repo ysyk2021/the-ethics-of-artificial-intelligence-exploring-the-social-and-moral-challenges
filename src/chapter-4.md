@@ -1,5 +1,4 @@
 
-
 Data Collection and Privacy Concerns
 ------------------------------------
 

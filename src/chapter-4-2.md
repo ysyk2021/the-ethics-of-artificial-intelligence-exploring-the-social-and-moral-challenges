@@ -1,5 +1,4 @@
 
-
 The use of Artificial Intelligence (AI) in surveillance and monitoring has increased significantly in recent years, raising numerous ethical concerns related to privacy, discrimination, and abuse of power. In this chapter, we explore the challenges of surveillance and monitoring with AI, including the impact on civil liberties and human rights.
 
 The Challenges of AI Surveillance and Monitoring

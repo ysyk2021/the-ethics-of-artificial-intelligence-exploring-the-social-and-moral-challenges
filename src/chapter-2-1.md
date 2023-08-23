@@ -1,5 +1,4 @@
 
-
 The field of ethics has a long history, dating back to ancient civilizations such as Greece and China. In recent years, the rise of artificial intelligence (AI) technologies has raised new ethical questions related to autonomy, responsibility, and accountability. This chapter will explore the historical perspectives on technology and ethics, with a particular focus on their relevance to AI ethics.
 
 The Technological Imperative

@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) becomes more prevalent in society, it is essential to ensure that these technologies are developed and used in ways that are fair and transparent. This requires addressing issues related to bias, discrimination, and fairness in AI development and deployment.
 
 The Importance of Fairness and Transparency in AI

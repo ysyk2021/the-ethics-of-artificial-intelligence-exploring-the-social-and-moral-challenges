@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) has the potential to transform various aspects of our lives. However, it is essential to address the issue of bias, fairness, and discrimination in AI to ensure that these technologies are developed and deployed in a way that promotes equity and justice.
 
 Understanding Bias in AI Systems

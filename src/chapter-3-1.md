@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) systems are increasingly used to make decisions that have significant impact on individuals and society as a whole. However, these systems can be biased due to the data they are trained on or the algorithms used to make decisions. In this chapter, we will explore bias, fairness, and discrimination in AI systems, with a particular focus on understanding bias in AI.
 
 Types of Bias in AI Systems

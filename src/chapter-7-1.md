@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) is a rapidly evolving field with new technologies and applications emerging constantly. As these technologies continue to develop and become more integrated into everyday life, they raise a host of ethical challenges related to privacy, bias, autonomy, and more.
 
 The Rise of New Technologies

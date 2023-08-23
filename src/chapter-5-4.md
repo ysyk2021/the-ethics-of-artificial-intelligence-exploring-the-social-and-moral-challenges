@@ -1,5 +1,4 @@
 
-
 Autonomous systems are becoming increasingly prevalent in society, from self-driving cars to intelligent robots. These systems are designed to make decisions independently, raising important questions about responsibility and accountability when things go wrong.
 
 The Rise of Autonomous Systems

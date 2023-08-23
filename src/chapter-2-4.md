@@ -1,5 +1,4 @@
 
-
 The development and deployment of artificial intelligence (AI) have raised important legal and regulatory issues. In this chapter, we will explore the theoretical foundations of AI ethics in relation to legal and regulatory issues.
 
 The Legal and Regulatory Landscape for AI
