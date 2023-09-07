@@ -10,3 +10,7 @@ Throughout the book, we will provide practical examples and case studies that il
 By the end of the book, readers will have a solid understanding of the ethics of AI and be equipped with the tools necessary to approach AI decision-making with a critical and ethical lens. They will be able to identify and analyze the ethical challenges posed by intelligent technologies and work towards ensuring that these technologies are developed and deployed in ways that align with ethical principles and values.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
