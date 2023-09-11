@@ -1,5 +1,4 @@
-Chapter 2: Historical Perspectives on Technology and Ethics
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Understanding the ethical challenges posed by artificial intelligence (AI) requires a historical perspective that traces the intersection of technology and ethics through time. In this chapter, we will explore key historical milestones and philosophical insights that have shaped the ethical discourse surrounding intelligent technologies.
 

@@ -1,5 +1,4 @@
-Chapter 8: Types of Bias in AI
-==============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Bias in artificial intelligence (AI) systems is a pervasive and complex issue that has significant social and ethical implications. In this chapter, we will explore the various types of bias that can emerge in AI, shedding light on the challenges and consequences of biased algorithms.
 

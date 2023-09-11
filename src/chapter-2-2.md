@@ -1,5 +1,4 @@
-Chapter 4: Philosophy of AI Ethics
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The field of AI ethics is deeply intertwined with philosophy, as it grapples with complex questions about the moral implications of intelligent technologies. In this chapter, we will delve into the philosophical foundations that underpin AI ethics, exploring key concepts, debates, and ethical theories that shape our understanding of the ethical challenges posed by artificial intelligence.
 

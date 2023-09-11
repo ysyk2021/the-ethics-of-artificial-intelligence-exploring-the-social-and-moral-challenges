@@ -1,5 +1,4 @@
-Chapter 6: Security Risks Associated with AI
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) brings with it a multitude of benefits, but it also introduces a range of security risks that must be carefully considered and managed. In this chapter, we will delve into the complex landscape of security risks associated with AI, exploring the challenges, ethical implications, and strategies for mitigating these risks.
 

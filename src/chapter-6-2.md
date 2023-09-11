@@ -1,5 +1,4 @@
-Chapter 5: Income Inequality and Distribution
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Income inequality is one of the most pressing social and moral challenges posed by the rapid advancement of artificial intelligence (AI) and intelligent technologies. In this chapter, we will explore the multifaceted issues surrounding income inequality and distribution in the age of AI, examining its causes, consequences, and potential ethical solutions.
 

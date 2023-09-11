@@ -1,5 +1,4 @@
-Chapter 7: Collaboration and Partnerships in AI Ethics
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Collaboration and partnerships are essential components in addressing the complex social and moral challenges posed by artificial intelligence (AI). In this chapter, we will explore the importance of cooperation between various stakeholders in the AI ecosystem to foster ethical development and deployment of intelligent technologies.
 

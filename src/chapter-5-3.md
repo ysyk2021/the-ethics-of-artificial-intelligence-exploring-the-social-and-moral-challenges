@@ -1,5 +1,4 @@
-Chapter 5: Responsibility and Liability in AI
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) systems become increasingly integrated into our lives, questions of responsibility and liability take center stage in the ethical discourse surrounding intelligent technologies. In this chapter, we will explore the multifaceted issues surrounding who should be held responsible and liable for the actions and consequences of AI.
 

@@ -1,5 +1,4 @@
-Chapter 3: Ethical Frameworks for AI Development
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Developing artificial intelligence (AI) with ethical considerations is crucial for ensuring the responsible and beneficial deployment of intelligent technologies. In this chapter, we will explore various ethical frameworks that guide the development of AI, emphasizing principles, guidelines, and strategies for ethical AI development.
 

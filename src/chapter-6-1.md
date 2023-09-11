@@ -1,5 +1,4 @@
-Chapter 4: Employment and Labor Displacement
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The rapid advancement of artificial intelligence (AI) and intelligent technologies has profound implications for the job market and the world of work. In this chapter, we will delve into the complex issues surrounding employment and labor displacement in the era of AI, examining the challenges, ethical considerations, and potential solutions.
 

@@ -1,5 +1,4 @@
-Chapter 6: Emerging Technologies and Ethical Challenges
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The rapid evolution of artificial intelligence (AI) and related technologies continually introduces new ethical dilemmas and complexities. In this chapter, we will explore the ethical challenges posed by emerging technologies, shedding light on the frontiers of AI ethics and the evolving landscape of intelligent technologies.
 

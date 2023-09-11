@@ -1,5 +1,4 @@
-Chapter 8: Understanding Bias in AI Systems
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Bias in artificial intelligence (AI) systems is a critical and multifaceted issue that has far-reaching implications for society. In this chapter, we will delve deep into the various aspects of bias in AI systems, exploring its causes, consequences, and methods of detection and mitigation.
 
